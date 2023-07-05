@@ -67,9 +67,9 @@ final class MyScrollViewController: UIViewController {
         bindAppleData()
         
     }
+
     
-    
-    
+  
     func setupLayout() {
         
         newsArticles.snp.makeConstraints { make in
