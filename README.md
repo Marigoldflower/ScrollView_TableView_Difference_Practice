@@ -59,10 +59,6 @@ ScrollView와 StackView를 조합하여 TableView와 같이 세로로 스크롤�
 
 4. 제약 걸기.  
 
-
-https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/1b180182-807b-4bed-8953-4931c3bec66d
-
-
 <img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/94c6882c-e4f2-40e8-b482-c2bb84c75f35">  
 
 5. 그 후 아까 만들어 놓았던 UIView들을 스택 뷰에 차례대로 채워 넣으면 된다.
