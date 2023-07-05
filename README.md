@@ -15,11 +15,22 @@ TableView는 화면을 채울만큼만 인스턴스를 생성하기에 메모리
 
 하지만 셀을 재사용하는 것은 TableView의 단점이기도 하다.  
 우선 사용했던 셀을 다음 줄에서도, 그 다음 줄에서도, 10번째 줄에서도 계속 똑같이 사용하기 때문에  
-각각의 셀의 구성이나 형태를 다르게 만들고자 할 때에는 TableView를 사용하기에 적합하지 못하다.  
+각각의 셀의 구성이나 형태를 다르게 만들고자 할 때에는 TableView를 사용해서는 안 된다.
 
-그림을 통해 알아보자.  
+그림을 통해 자세히 알아보자.  
 
-<img width="373" alt="스크린샷 2023-07-05 오후 5 54 50" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/3cb1142b-1315-4f0a-9d02-a98908cf7d71">
+<img width="373" alt="스크린샷 2023-07-05 오후 5 54 50" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/30ec76e7-1fc2-4afc-b79d-dcde7cd9a108">  
+
+  
+이미지, 두꺼운 폰트, 작은 글씨체의 셀이 계속 반복되는 것을 확인할 수 있다.  
+TableView는 사용했던 셀을 다시 재사용하기 때문에 셀의 형태와 구성은 동일하다.  
+
+반면에 다음과 같은 그림을 보자.
+
+
+![IMG_0780](https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/7ed30772-cbee-46a6-9bd5-ad57e27dcf2f)
+
+
 
 
 
