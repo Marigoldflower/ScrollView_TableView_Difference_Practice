@@ -70,9 +70,7 @@ ScrollView와 StackView를 조합하여 TableView와 같이 세로로 스크롤�
 
 ## 결과물 
 ------------
-<img src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/959641c2-a59c-4b62-ba77-748aa99358ad" width="400" height="800"/>
-
-
+<img src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/959641c2-a59c-4b62-ba77-748aa99358ad" width="400" height="800"/>      
 
 
 정리하자면 **재사용셀을 사용해야 하거나** **받아야할 데이터가 너무 많을 때**엔 **TableView를 사용**하고  
