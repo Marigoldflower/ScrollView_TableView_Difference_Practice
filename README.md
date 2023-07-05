@@ -70,8 +70,8 @@ ScrollView와 StackView를 조합하여 TableView와 같이 세로로 스크롤�
 
 ## 결과물 
 ------------
+<img src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/959641c2-a59c-4b62-ba77-748aa99358ad" width="200" height="400"/>
 
-![ezgif-3-9515eba167](https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/959641c2-a59c-4b62-ba77-748aa99358ad)
 
 
 
