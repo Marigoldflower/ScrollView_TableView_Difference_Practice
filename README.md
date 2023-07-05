@@ -27,11 +27,7 @@ TableView는 사용했던 셀을 다시 재사용하기 때문에 셀의 형태�
 
 반면에 다음과 같은 그림을 보자.
 
-
-<img width="373" alt="스크린샷 2023-07-05 오후 5 54 50" src="(https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/787c7155-62c5-4287-9bc8-8a2bfa30d8f3)"> 
-
-
-
+![814b564c-e3b1-4939-9c2e-e1decb4a173c](https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/7e88f80f-5731-4308-a40b-13aaca277808)
 
 
 
