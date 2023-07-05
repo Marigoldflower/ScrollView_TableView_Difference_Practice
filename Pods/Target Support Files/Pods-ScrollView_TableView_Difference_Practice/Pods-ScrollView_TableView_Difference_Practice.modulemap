@@ -1,0 +1,6 @@
+framework module Pods_ScrollView_TableView_Difference_Practice {
+  umbrella header "Pods-ScrollView_TableView_Difference_Practice-umbrella.h"
+
+  export *
+  module * { export * }
+}

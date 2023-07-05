@@ -7,23 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		94D050D9CC2DC987CBA92020 /* Pods_ScrollView_TableView_Difference_Practice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B905790C556E857E4212F0F /* Pods_ScrollView_TableView_Difference_Practice.framework */; };
 		EA3184C92A553634003D433F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184C82A553634003D433F /* AppDelegate.swift */; };
 		EA3184CB2A553634003D433F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184CA2A553634003D433F /* SceneDelegate.swift */; };
-		EA3184CD2A553634003D433F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184CC2A553634003D433F /* ViewController.swift */; };
+		EA3184CD2A553634003D433F /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184CC2A553634003D433F /* MyTableViewController.swift */; };
 		EA3184D02A553634003D433F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA3184CE2A553634003D433F /* Main.storyboard */; };
 		EA3184D22A553635003D433F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA3184D12A553635003D433F /* Assets.xcassets */; };
 		EA3184D52A553635003D433F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA3184D32A553635003D433F /* LaunchScreen.storyboard */; };
+		EA3184E22A55368A003D433F /* AppleNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184E12A55368A003D433F /* AppleNews.swift */; };
+		EA3184E52A5536A8003D433F /* AppleNewsNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184E42A5536A8003D433F /* AppleNewsNetworkManager.swift */; };
+		EA3184E72A5536C1003D433F /* AppleNewsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184E62A5536C1003D433F /* AppleNewsViewModel.swift */; };
+		EA3184EA2A55373A003D433F /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184E92A55373A003D433F /* MyTableViewCell.swift */; };
+		EA3184EC2A553F36003D433F /* MyScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184EB2A553F36003D433F /* MyScrollViewController.swift */; };
+		EA3184EE2A553F8F003D433F /* MainTabController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184ED2A553F8F003D433F /* MainTabController.swift */; };
+		EA3184F02A5544A1003D433F /* NewsArticles.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184EF2A5544A1003D433F /* NewsArticles.swift */; };
+		EA3184F22A5544BD003D433F /* NewsImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184F12A5544BD003D433F /* NewsImage.swift */; };
+		EA3184F42A5544CA003D433F /* WantToEat.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184F32A5544CA003D433F /* WantToEat.swift */; };
+		EA3184F62A554FFB003D433F /* RedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3184F52A554FFB003D433F /* RedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		242FA53AD194C0CD44F306C6 /* Pods-ScrollView_TableView_Difference_Practice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScrollView_TableView_Difference_Practice.release.xcconfig"; path = "Target Support Files/Pods-ScrollView_TableView_Difference_Practice/Pods-ScrollView_TableView_Difference_Practice.release.xcconfig"; sourceTree = "<group>"; };
+		2B905790C556E857E4212F0F /* Pods_ScrollView_TableView_Difference_Practice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScrollView_TableView_Difference_Practice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBB8AF957C60A2078E8FA5A9 /* Pods-ScrollView_TableView_Difference_Practice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScrollView_TableView_Difference_Practice.debug.xcconfig"; path = "Target Support Files/Pods-ScrollView_TableView_Difference_Practice/Pods-ScrollView_TableView_Difference_Practice.debug.xcconfig"; sourceTree = "<group>"; };
 		EA3184C52A553634003D433F /* ScrollView_TableView_Difference_Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollView_TableView_Difference_Practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA3184C82A553634003D433F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EA3184CA2A553634003D433F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		EA3184CC2A553634003D433F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EA3184CC2A553634003D433F /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 		EA3184CF2A553634003D433F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EA3184D12A553635003D433F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA3184D42A553635003D433F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA3184D62A553635003D433F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA3184E12A55368A003D433F /* AppleNews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleNews.swift; sourceTree = "<group>"; };
+		EA3184E42A5536A8003D433F /* AppleNewsNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleNewsNetworkManager.swift; sourceTree = "<group>"; };
+		EA3184E62A5536C1003D433F /* AppleNewsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleNewsViewModel.swift; sourceTree = "<group>"; };
+		EA3184E92A55373A003D433F /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
+		EA3184EB2A553F36003D433F /* MyScrollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyScrollViewController.swift; sourceTree = "<group>"; };
+		EA3184ED2A553F8F003D433F /* MainTabController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabController.swift; sourceTree = "<group>"; };
+		EA3184EF2A5544A1003D433F /* NewsArticles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsArticles.swift; sourceTree = "<group>"; };
+		EA3184F12A5544BD003D433F /* NewsImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsImage.swift; sourceTree = "<group>"; };
+		EA3184F32A5544CA003D433F /* WantToEat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WantToEat.swift; sourceTree = "<group>"; };
+		EA3184F52A554FFB003D433F /* RedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +55,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94D050D9CC2DC987CBA92020 /* Pods_ScrollView_TableView_Difference_Practice.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		36B9488F6627E9354BE4643A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2B905790C556E857E4212F0F /* Pods_ScrollView_TableView_Difference_Practice.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D6B2CEE06B6C655CD789A3D9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DBB8AF957C60A2078E8FA5A9 /* Pods-ScrollView_TableView_Difference_Practice.debug.xcconfig */,
+				242FA53AD194C0CD44F306C6 /* Pods-ScrollView_TableView_Difference_Practice.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		EA3184BC2A553634003D433F = {
 			isa = PBXGroup;
 			children = (
 				EA3184C72A553634003D433F /* ScrollView_TableView_Difference_Practice */,
 				EA3184C62A553634003D433F /* Products */,
+				D6B2CEE06B6C655CD789A3D9 /* Pods */,
+				36B9488F6627E9354BE4643A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,13 +102,79 @@
 			children = (
 				EA3184C82A553634003D433F /* AppDelegate.swift */,
 				EA3184CA2A553634003D433F /* SceneDelegate.swift */,
-				EA3184CC2A553634003D433F /* ViewController.swift */,
-				EA3184CE2A553634003D433F /* Main.storyboard */,
+				EA3184E32A553698003D433F /* Network */,
+				EA3184DF2A553677003D433F /* Model */,
+				EA3184E02A55367B003D433F /* ViewModel */,
+				EA3184DD2A553665003D433F /* View */,
+				EA3184DE2A55366B003D433F /* Storyboard */,
 				EA3184D12A553635003D433F /* Assets.xcassets */,
-				EA3184D32A553635003D433F /* LaunchScreen.storyboard */,
 				EA3184D62A553635003D433F /* Info.plist */,
 			);
 			path = ScrollView_TableView_Difference_Practice;
+			sourceTree = "<group>";
+		};
+		EA3184DC2A553660003D433F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				EA3184ED2A553F8F003D433F /* MainTabController.swift */,
+				EA3184CC2A553634003D433F /* MyTableViewController.swift */,
+				EA3184EB2A553F36003D433F /* MyScrollViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		EA3184DD2A553665003D433F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EA3184EF2A5544A1003D433F /* NewsArticles.swift */,
+				EA3184F12A5544BD003D433F /* NewsImage.swift */,
+				EA3184F32A5544CA003D433F /* WantToEat.swift */,
+				EA3184F52A554FFB003D433F /* RedView.swift */,
+				EA3184E82A55372D003D433F /* Cell */,
+				EA3184DC2A553660003D433F /* Controller */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EA3184DE2A55366B003D433F /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				EA3184CE2A553634003D433F /* Main.storyboard */,
+				EA3184D32A553635003D433F /* LaunchScreen.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		EA3184DF2A553677003D433F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EA3184E12A55368A003D433F /* AppleNews.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EA3184E02A55367B003D433F /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				EA3184E62A5536C1003D433F /* AppleNewsViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		EA3184E32A553698003D433F /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				EA3184E42A5536A8003D433F /* AppleNewsNetworkManager.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		EA3184E82A55372D003D433F /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				EA3184E92A55373A003D433F /* MyTableViewCell.swift */,
+			);
+			path = Cell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +184,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EA3184D92A553635003D433F /* Build configuration list for PBXNativeTarget "ScrollView_TableView_Difference_Practice" */;
 			buildPhases = (
+				E989515D9F635990A385776D /* [CP] Check Pods Manifest.lock */,
 				EA3184C12A553634003D433F /* Sources */,
 				EA3184C22A553634003D433F /* Frameworks */,
 				EA3184C32A553634003D433F /* Resources */,
+				CED795796056829761721D86 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -133,14 +245,66 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		CED795796056829761721D86 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ScrollView_TableView_Difference_Practice/Pods-ScrollView_TableView_Difference_Practice-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ScrollView_TableView_Difference_Practice/Pods-ScrollView_TableView_Difference_Practice-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ScrollView_TableView_Difference_Practice/Pods-ScrollView_TableView_Difference_Practice-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E989515D9F635990A385776D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ScrollView_TableView_Difference_Practice-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		EA3184C12A553634003D433F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA3184CD2A553634003D433F /* ViewController.swift in Sources */,
+				EA3184EA2A55373A003D433F /* MyTableViewCell.swift in Sources */,
+				EA3184E72A5536C1003D433F /* AppleNewsViewModel.swift in Sources */,
+				EA3184CD2A553634003D433F /* MyTableViewController.swift in Sources */,
+				EA3184EC2A553F36003D433F /* MyScrollViewController.swift in Sources */,
+				EA3184E52A5536A8003D433F /* AppleNewsNetworkManager.swift in Sources */,
+				EA3184F02A5544A1003D433F /* NewsArticles.swift in Sources */,
+				EA3184EE2A553F8F003D433F /* MainTabController.swift in Sources */,
+				EA3184F22A5544BD003D433F /* NewsImage.swift in Sources */,
+				EA3184E22A55368A003D433F /* AppleNews.swift in Sources */,
+				EA3184F42A5544CA003D433F /* WantToEat.swift in Sources */,
 				EA3184C92A553634003D433F /* AppDelegate.swift in Sources */,
 				EA3184CB2A553634003D433F /* SceneDelegate.swift in Sources */,
+				EA3184F62A554FFB003D433F /* RedView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +446,7 @@
 		};
 		EA3184DA2A553635003D433F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DBB8AF957C60A2078E8FA5A9 /* Pods-ScrollView_TableView_Difference_Practice.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -310,6 +475,7 @@
 		};
 		EA3184DB2A553635003D433F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 242FA53AD194C0CD44F306C6 /* Pods-ScrollView_TableView_Difference_Practice.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
