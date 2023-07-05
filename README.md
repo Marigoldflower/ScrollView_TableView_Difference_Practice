@@ -26,7 +26,8 @@ TableView는 사용했던 셀을 다시 재사용하기 때문에 셀의 형태�
 
 반면에 다음과 같은 그림을 보자.
 
-![814b564c-e3b1-4939-9c2e-e1decb4a173c](https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/7e88f80f-5731-4308-a40b-13aaca277808)  
+<img src="https://github.com/Marigoldflower/PinkyStocky/assets/100112897/814b564c-e3b1-4939-9c2e-e1decb4a173c" width="373" height="400"/>
+
 
 위의 날씨 앱을 보면 각각의 구성요소가 모두 형태가 다른 것을 확인할 수 있다.  
 첫 번째 영역은 날씨 Label만 존재하고, 세 번째 영역은 여러 날씨 데이터를 가로로 스크롤하여 확인할 수 있게끔 되어있으며  
