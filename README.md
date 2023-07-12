@@ -57,23 +57,28 @@ ScrollView와 StackView를 조합하여 TableView와 같이 세로로 스크롤�
 
 1. 먼저 스택 뷰에 올릴 뷰들을 생성한다.
 
-<img width="639" alt="스크린샷 2023-07-05 오후 6 47 20" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/f0fdcc6f-1093-456d-88c7-e29be14bf32b">  
+<img width="639" alt="스크린샷 2023-07-05 오후 6 47 20" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/f0fdcc6f-1093-456d-88c7-e29be14bf32b"> 
+<br>
 
 2. 스택 뷰를 올린다.
    
-<img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/5b9bb79f-f838-40cf-828c-b940c614eb29">  
+<img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/5b9bb79f-f838-40cf-828c-b940c614eb29">
+<br>
 
 3. 스크롤 뷰 생성
 
 <img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/3a92661b-a047-4bfb-ba2e-996efa8deb73">
+<br>
 
 4. 제약 걸기.  
 
-<img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/94c6882c-e4f2-40e8-b482-c2bb84c75f35">  
+<img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/94c6882c-e4f2-40e8-b482-c2bb84c75f35">
+<br>
 
 5. 그 후 아까 만들어 놓았던 UIView들을 스택 뷰에 차례대로 채워 넣으면 된다.
 
 <img width="639" alt="스크린샷 2023-07-05 오후 6 56 42" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/8015f73d-600a-4e5b-86c1-cfd2d305f67b">
+<br>
 
 
 ## 결과물 
