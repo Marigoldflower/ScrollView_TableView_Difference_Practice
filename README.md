@@ -70,7 +70,7 @@ ScrollView와 StackView를 조합하여 TableView처럼 세로로 스크롤할 �
 <img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/f2c7a971-7caf-48b9-88bf-7fa51395c17a">
 <br>
 
-4. 제약 걸기. 이 때 스크롤 방향이 가로 방향이면 heightAnchor로, 세로 방향이면 widthAnchor로 설정해야 한다.
+4. 제약 걸기. 이 때 ScrollView의 스크롤 방향이 **가로 방향이면 heightAnchor**로, **세로 방향이면 widthAnchor**로 설정해야 한다.
 
 <img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/d731c073-e44a-4028-83c9-0a1c2774110f">
 <br>
