@@ -60,7 +60,7 @@ ScrollView와 StackView를 조합하여 TableView처럼 세로로 스크롤할 �
 <img width="639" alt="스크린샷 2023-07-05 오후 6 47 20" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/f0fdcc6f-1093-456d-88c7-e29be14bf32b"> 
 <br>
 
-2. 스택 뷰를 올린다.
+2. 스택 뷰를 올린다. 이 때 arrangedSubview를 이용해서 뷰들을 바로 올리지 않도록 한다. 
    
 <img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/5b9bb79f-f838-40cf-828c-b940c614eb29">
 <br>
