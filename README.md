@@ -67,10 +67,10 @@ ScrollView와 StackView를 조합하여 TableView처럼 세로로 스크롤할 �
 
 3. 스크롤 뷰 생성
 
-<img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/3a92661b-a047-4bfb-ba2e-996efa8deb73">
+<img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/059a6fe8-0953-48dc-a911-9cbe20d233db">
 <br>
 
-4. 제약 걸기.  
+4. 제약 걸기. 
 
 <img width="639" alt="스크린샷 2023-07-05 오후 6 48 53" src="https://github.com/Marigoldflower/ScrollView_TableView_Difference_Practice/assets/100112897/94c6882c-e4f2-40e8-b482-c2bb84c75f35">
 <br>
