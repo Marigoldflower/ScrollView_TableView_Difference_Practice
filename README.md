@@ -1,6 +1,6 @@
 # ScrollView_TableView_Difference_Practice
 
-### TableView 사용의 장점  
+## TableView 사용의 장점  
 
 ------------
 
@@ -10,7 +10,7 @@ TableView는 화면을 채울만큼만 인스턴스를 생성하기에 메모리
 
 <br>
 
-### TableView 사용의 단점  
+## TableView 사용의 단점  
 
 ------------
 
@@ -45,7 +45,7 @@ TableView는 사용했던 셀을 다시 "재사용"하기 때문에 셀의 형�
 
 <br>
 
-### ScrollView와 StackView의 조합
+## ScrollView와 StackView의 조합
 
 ------------
 
